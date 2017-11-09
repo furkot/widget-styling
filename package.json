@@ -1,6 +1,6 @@
 {
   "name": "widget-styling",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Copies selected style rules from parent document to embedded iframe.",
   "author": {
     "name": "Natalia Kowalczyk",
