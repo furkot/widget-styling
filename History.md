@@ -1,4 +1,9 @@
 
+1.0.3 / 2017-11-10
+==================
+
+ * support passing map styles from page to widget
+
 1.0.2 / 2017-11-09
 ==================
 
