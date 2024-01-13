@@ -1,6 +1,6 @@
 [![NPM version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Dependency Status][gemnasium-image]][gemnasium-url]
+[![Build Status][build-image]][build-url]
+[![Dependency Status][deps-image]][deps-url]
 
 # widget-styling
 
@@ -24,11 +24,11 @@ widgetStyling(selectors, widget, iframe);
 
 MIT © [Natalia Kowalczyk](https://melitele.me)
 
-[npm-image]: https://img.shields.io/npm/v/widget-styling.svg
+[npm-image]: https://img.shields.io/npm/v/widget-styling
 [npm-url]: https://npmjs.org/package/widget-styling
 
-[travis-url]: https://travis-ci.org/furkot/widget-styling
-[travis-image]: https://img.shields.io/travis/furkot/widget-styling.svg
+[build-url]: https://github.com/furkot/widget-styling/actions/workflows/check.yaml
+[build-image]: https://img.shields.io/github/actions/workflow/status/furkot/widget-styling/check.yaml?branch=main
 
-[gemnasium-image]: https://img.shields.io/gemnasium/furkot/widget-styling.svg
-[gemnasium-url]: https://gemnasium.com/furkot/widget-styling
+[deps-image]: https://img.shields.io/librariesio/release/npm/widget-styling
+[deps-url]: https://libraries.io/npm/widget-styling
