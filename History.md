@@ -1,4 +1,10 @@
 
+1.0.4 / 2024-01-13
+==================
+
+ * replace Travis CI with github actions
+ * remove unused dependencies
+
 1.0.3 / 2017-11-10
 ==================
 
